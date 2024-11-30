@@ -1,2 +1,2 @@
 # Ratiphong Wanwiset
-![image](/image/1654664748017.png)
+![image](/image/1654664748017.jpg)
