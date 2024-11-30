@@ -56,7 +56,7 @@ Bluetooth (Wireless Personal Area Network IEEE 802.15) :
 
 ------------
 
-URL : 
+URL : [Boss's Link](https://zozimboii.github.io/bluetooth)
 
 ------------
 
