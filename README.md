@@ -5,5 +5,5 @@
 - Study:Computer Science
 ![image](/image/1654664748017.jpg)
 # Work
--Week 1 : [Week1](https://bxnkz.github.io/bluetooth)
--E-Card : [E_Card](https://bxnkz.github.io/ecard)
+-Week 1 : [Week1](https://bxnkz.github.io/bluetooth)<br>
+-E-Card : [E-Card](https://bxnkz.github.io/ecard)
