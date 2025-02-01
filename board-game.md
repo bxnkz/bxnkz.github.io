@@ -62,4 +62,4 @@
 
 - [6530200738 พันธรัฐ ทะเรรัมย์](https://phantharatt.github.io/cyber-board-game)
 
-- [Back to Profile page](https://zozimboii.github.io/)
+- [Back to Profile page](https://bxnkz.github.io/)
