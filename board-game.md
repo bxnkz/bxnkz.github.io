@@ -35,16 +35,16 @@
 
 ---
 
-![](/Image/bg1.jpg)
-![](/Image/bg2.jpg)
-![](/Image/bg3.jpg)
-![](/Image/bg5.png)
-![](/Image/bg6.png)
-![](/Image/bg7.png)
+![](/image/bg1.jpg)
+![](/image/bg2.jpg)
+![](/image/bg3.jpg)
+![](/image/bg5.png)
+![](/image/bg6.png)
+![](/image/bg7.png)
 
 ## วิดีโอกิจกรรม
 
-[![Cyber Board Game](/Image/bg4.png)](https://youtu.be/H051c8pCy3s?si=BKHIzt8e9zGtXHg2 )
+[![Cyber Board Game](/image/bg4.png)](https://youtu.be/H051c8pCy3s?si=BKHIzt8e9zGtXHg2 )
 ### ปล.
 - ทางกลุ่มผู้จัดทำได้ขออนุญาตเพื่อนๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
 
