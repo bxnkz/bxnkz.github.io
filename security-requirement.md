@@ -1,6 +1,6 @@
 **RESTful Web Service**<br>
 ------------
-**13.2.6 Details**
+13.2.6 Details
 ------------
 
 Verify that the message headers and payload are trustworthy and not
